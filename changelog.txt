@@ -1,0 +1,4 @@
+*** Subscribe For Content Changelog ***
+
+2015.09.02 - version 1.0.0
+ * First Release.
