@@ -73,3 +73,11 @@ grunt watch
 ```
 
 When you do make a contribution, please be sure to open an issue first. Then create a branch in your fork like `patch-101` (where 101 is the issue number) and make a PR from that branch.
+
+## License
+
+[GNU GPLv3](http://www.gnu.org/licenses/gpl-3.0.en.html) - You may copy, distribute and modify the software as long as you track changes/dates in source files. Any modifications to or software including (via compiler) GPL-licensed code must also be made available under the GPL along with build & install instructions.
+
+## By
+
+Built for [WooThemes.com](https://woothemes.com) by the team at [WooThemes](https://woothemes.com) + [Automattic](https://automattic.com).
