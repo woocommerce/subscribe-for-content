@@ -1,5 +1,5 @@
 # Subscribe for Content
-A WordPress plugin that allows you to hide content until a user subscribes to a [MailChimp](https://mailchimp.com/) mailing list.
+A WordPress plugin that allows you to hide content until a user subscribes to a [MailChimp](https://mailchimp.com/) mailing list. :no_entry_sign: :open_mouth: :email: :sweat_smile: :monkey_face: :book: :heart_eyes:
 
 It allows per-list subscribing. So after subscribing to a single **list**, the user will see all content throughout your site that is hidden with the same list, but will have to subscribe again if it's another list. It also supports **interest groups**.
 
