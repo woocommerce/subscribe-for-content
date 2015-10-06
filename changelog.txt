@@ -1,4 +1,7 @@
 *** Subscribe For Content Changelog ***
 
+2015.10.06 - version 1.0.1
+ * Wrap ajax-requested content in hidden class.
+
 2015.09.02 - version 1.0.0
  * First Release.

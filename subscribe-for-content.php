@@ -3,7 +3,7 @@
  * Plugin Name: Subscribe For Content - MailChimp
  * Plugin URI: https://www.woothemes.com/
  * Description: Force users to subscribe to a MailChimp list in order to access content on your site.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: WooThemes / Bryce
  * Author URI: http://woothemes.com/
  * Text Domain: subscribe-for-content
@@ -30,7 +30,7 @@ class WT_Subscribe_For_Content {
 	 *
 	 * @var string
 	 */
-	const VERSION = '1.0.0';
+	const VERSION = '1.0.1';
 
 	/**
 	 * Instance of this class.

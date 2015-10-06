@@ -1,7 +1,7 @@
 {
   "name": "subscribe-for-content",
   "description": "Hide parts of posts for non-subscribed users.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "Subscribe For Content",
   "main": "Gruntfile.js",
   "devDependencies": {
