@@ -128,7 +128,7 @@
                                          */
                                         if (true == data.success) {
                                             var $content = $(data.the_content).filter('.wtsfc-hidden-content').html();
-                                            $box.replaceWith($content);
+                                            $box.replaceWith('<div class="wtsfc-hidden-content">' + $content + '</div>');
                                         } else {
                                             if (true == data.error) {
                                                 $this.after('<div class="error">' + data.reason + '</div>');
